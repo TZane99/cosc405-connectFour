@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.container {
+    display: inline-block;
+    background-color: black;
+}
+
+.column {
+    width: 125px;
+    height: 125px;
+    display: inline-block;
+    border: 1px solid white;
+    background-color: white;
+    border-collapse: collapse;
+    margin: 5px;
+}
+
+.next-red-piece{
+    background-color: red
+}
+
+.col.red{
+    background-color: red
+}
